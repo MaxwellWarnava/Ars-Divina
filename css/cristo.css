@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: hsl(10, 42%, 34%);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header h1{
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+header img{
+    border-radius: 150px;
+    inline-size: 300px;
+    border: 2px solid white;
+}
